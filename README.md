@@ -31,16 +31,16 @@ To run the project, follow these steps:
    conda env create -f environment.yml
    conda activate TrEP-env
 ```
-This will install all the necessary dependencies as specified in environment.yml.
+   This will install all the necessary dependencies as specified in environment.yml.
 
 3. Training the Model
   ```bash
    python train.py
 ```
-The arguments and their descriptions are documented within train.py. Adjust them as per your requirements.
+   The arguments and their descriptions are documented within train.py. Adjust them as per your requirements.
 
-##Contact
-For any queries or further discussions, please contact [Zhengming Zhnag](mailto:zzmonlyyou@gmail.com).
+## Contact
+For any queries or further discussions, please contact [Zhengming Zhang](mailto:zzmonlyyou@gmail.com).
 
 
 
