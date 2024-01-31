@@ -24,3 +24,22 @@ To run the project, follow these steps:
    ```bash
    git clone https://github.com/zzmonlyyou/TrEP.git
    cd TrEP
+
+2. Create and activate the Conda environment:
+
+  ```bash
+   conda env create -f environment.yml
+   conda activate TrEP-env
+This will install all the necessary dependencies as specified in environment.yml.
+
+3. Training the Model
+  ```bash
+   python train.py
+The arguments and their descriptions are documented within train.py. Adjust them as per your requirements.
+
+##Contact
+For any queries or further discussions, please contact [Zhengming Zhnag](mailto:zzmonlyyou@gmail.com).
+
+
+
+
